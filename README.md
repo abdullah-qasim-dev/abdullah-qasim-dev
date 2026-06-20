@@ -1,3 +1,5 @@
+# Hi 👋, I'm Abdullah Qasim
+
 # 💫 About Me:
 I'm a Data Science student at FAST NUCES, Lahore, passionate about turning data into meaningful insights through Machine Learning, NLP, and AI-driven solutions. I enjoy building end-to-end projects — from predictive models and data pipelines to computer vision applications — and I'm always looking to deepen my understanding of LLMs and modern AI frameworks. I recently completed a remote internship at Nepta Solutions (UK), where I worked on real-world software integration using C#. Outside of coursework, I like experimenting with new tools and ideas, and I'm currently focused on expanding my portfolio and exploring opportunities in AI/ML and Data Engineering.
 
